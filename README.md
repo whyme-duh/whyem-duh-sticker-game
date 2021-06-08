@@ -1,4 +1,4 @@
-# whyem-duh-sticker-game
+# whyme-duh-sticker-game
 Nepali sticker game made in Python.
 
 
