@@ -1,5 +1,5 @@
 # whyme-duh-sticker-game
-Nepali sticker game made in Python.
+Nepali wrestling sticker game made in Python.
 
 
 
